@@ -3,7 +3,7 @@
 --------------------Generate Release Key Hash Android--------------------
 
 <h2>STEP 1:</h2>
-+ Download openssl from 'https://code.google.com/archive/p/openssl-for-windows/downloads'
++ Download openssl from https://code.google.com/archive/p/openssl-for-windows/downloads<br/>
 + Download Java Development Kit (JDK) 8
 <h2>STEP 2:</h2> Extract and copy folder to Disk 'C:\', rename it to 'openssl'
 <h2>STEP 3:</h2> Edit 'path' in 'System variables'
