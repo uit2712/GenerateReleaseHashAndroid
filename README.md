@@ -5,7 +5,7 @@
 <h2>STEP 1:</h2>
 + Download openssl from https://code.google.com/archive/p/openssl-for-windows/downloads<br/>
 <img src='https://github.com/uit2712/GenerateReleaseHashAndroid/blob/master/Images/1.png' width='700'/>
-+ Download Java Development Kit (JDK) 8
++ Download and install Java Development Kit (JDK) 8
 <h2>STEP 2:</h2> Extract and copy folder to Disk 'C:\', rename it to 'openssl'
 <img src='https://github.com/uit2712/GenerateReleaseHashAndroid/blob/master/Images/2.png' width='700'/>
 <h2>STEP 3:</h2> Edit 'path' in 'System variables'
